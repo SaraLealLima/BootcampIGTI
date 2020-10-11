@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    background-image: url(https://images.unsplash.com/photo-1499561385668-5ebdb06a79bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2849&q=80);
+    background-size: 115%;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Arial;
+    font-size: 20px;
+}
